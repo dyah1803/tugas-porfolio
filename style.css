@@ -1,13 +1,8 @@
-/* CSS */
-.navbar {
-  box-shadow: 0 2px 4px rgba(0,0,0,0.1);
+body {
+  min-height: 2000px;
 }
-.navbar-brand {
-  font-weight: bold;
-}
-.navbar-nav .nav-link {
-  margin-left: 1rem;
-}
-.navbar-nav .nav-link.active {
-  color: #0d6efd;
+
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #e2edff;
 }
