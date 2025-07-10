@@ -1,7 +1,9 @@
 body {
   min-height: 2000px;
 }
-
+body {
+  min-height: 2000px;
+}
 .jumbotron {
  
   background-color: #e2edff;
